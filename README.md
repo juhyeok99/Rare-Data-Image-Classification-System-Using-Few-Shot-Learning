@@ -246,8 +246,3 @@ Classification accuracy on 100-sample subsets (from paper Tables 1 & 2):
 }
 ```
 
----
-
-## License
-
-MIT
