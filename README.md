@@ -4,7 +4,7 @@ Implementation of the system proposed in:
 
 > **Rare Data Image Classification System Using Few-Shot Learning**  
 > Juhyeok Lee and Mihui Kim  
-> *Electronics* 2024, 13, 3923. https://doi.org/10.3390/electronics13193923
+> *Electronics* 2025, 13, 3923. https://doi.org/10.3390/electronics13193923
 
 ---
 
